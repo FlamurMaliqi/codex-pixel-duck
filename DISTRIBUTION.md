@@ -5,12 +5,11 @@ only for discovery and installation links.
 
 ## 1. Publish here
 
-1. Confirm who owns the original GIF and choose an asset license.
-2. Update `ASSET-NOTICE.md` with the creator, license, and attribution.
-3. Create the public GitHub repository.
-4. Tag `v1.0.0` and attach a ZIP containing `pet.json` and
+1. The original GIF is owned by Flamur Maliqi and licensed under CC BY 4.0.
+2. Create the public GitHub repository.
+3. Tag `v1.0.0` and attach a ZIP containing `pet.json` and
    `spritesheet.webp`.
-5. Add the `codex-pets`, `pixel-art`, and `codex-desktop` GitHub topics.
+4. Add the `codex-pets`, `pixel-art`, and `codex-desktop` GitHub topics.
 
 ## 2. List in Awesome Codex Pet
 

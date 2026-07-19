@@ -1,4 +1,4 @@
-# Asset notice
+# Artwork license
 
 The following files are derived from the user-supplied `atjxs7.gif`:
 
@@ -6,18 +6,20 @@ The following files are derived from the user-supplied `atjxs7.gif`:
 - `assets/spin-preview.gif`
 - `assets/contact-sheet.png`
 
-The source currently resolves to
-[an anonymous Imgflip upload](https://imgflip.com/gif/atjxs7). No explicit
-license or creator attribution was found on that page.
+The original GIF was created by Flamur Maliqi and uploaded anonymously at
+[Imgflip](https://imgflip.com/gif/atjxs7).
 
-The MIT license in `LICENSE` applies only to this repository's scripts and
-documentation. It does **not** grant rights to the artwork or derived media.
+Flamur Maliqi licenses the original Pixel Duck artwork and the derived media
+listed above under the
+[Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/)
+(CC BY 4.0).
 
-This repository is therefore a local publication draft. Do not make it public
-or submit its artwork to a third-party gallery until one of these is true:
+You may share and adapt the artwork, including commercially, provided you give
+appropriate credit, link to the license, and indicate whether you made changes.
 
-1. the original creator confirms ownership and grants an explicit license; or
-2. the duck is replaced with newly created artwork that can be openly licensed.
+Suggested attribution:
 
-Once rights are confirmed, replace this notice with the creator's name, source,
-chosen asset license, and required attribution text.
+> Pixel Duck by Flamur Maliqi, licensed under CC BY 4.0.
+
+The MIT license in `LICENSE` applies separately to the repository's scripts and
+documentation.

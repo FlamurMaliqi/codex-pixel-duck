@@ -58,8 +58,8 @@ Those projects remain independent and retain their own licenses. See
 
 ## License
 
-The scripts and documentation are MIT licensed. The duck artwork and derived
-media are handled separately; read [`ASSET-NOTICE.md`](ASSET-NOTICE.md) before
-publishing or redistributing them.
+The scripts and documentation are MIT licensed. The Pixel Duck artwork and
+derived media are licensed under CC BY 4.0 by Flamur Maliqi. See
+[`ASSET-NOTICE.md`](ASSET-NOTICE.md) for attribution details.
 
 This is an unofficial community project and is not affiliated with OpenAI.
