@@ -3,17 +3,17 @@
 Keep this repository as Pixel Duck's canonical package. Use upstream catalogs
 only for discovery and installation links.
 
-## 1. Publish here
+## 1. Published here
 
-1. The original GIF is owned by Flamur Maliqi and licensed under CC BY 4.0.
-2. Create the public GitHub repository.
-3. Tag `v1.0.0` and attach a ZIP containing `pet.json` and
-   `spritesheet.webp`.
-4. Add the `codex-pets`, `pixel-art`, and `codex-desktop` GitHub topics.
+- Repository: <https://github.com/FlamurMaliqi/codex-pixel-duck>
+- Release: <https://github.com/FlamurMaliqi/codex-pixel-duck/releases/tag/v1.0.0>
+- Artwork: CC BY 4.0 by Flamur Maliqi
+- Topics: `codex-pets`, `pixel-art`, and `codex-desktop`
 
 ## 2. List in Awesome Codex Pet
 
-Open one pull request containing:
+[Pull request #34](https://github.com/legeling/awesome-codex-pet/pull/34)
+contains:
 
 ```text
 pets/pixel-duck--flamurmaliqi/
@@ -27,9 +27,10 @@ adds the author suffix; the animation itself stays unchanged.
 
 ## 3. List in Petdex
 
-Submit this repository's two-file package through Petdex's documented upload
-flow. Petdex is already the broad community gallery, so there is no benefit in
-copying its web app or thousands of hosted assets into this project.
+Petdex requires an authenticated account. After `npx petdex login`, submit this
+repository's two-file package with `npx petdex submit .`. Petdex is already the
+broad community gallery, so there is no benefit in copying its web app or
+thousands of hosted assets into this project.
 
 ## 4. Link related collections
 
