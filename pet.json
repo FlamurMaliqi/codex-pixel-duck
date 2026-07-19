@@ -1,0 +1,7 @@
+{
+  "id": "pixel-duck",
+  "displayName": "Pixel Duck",
+  "description": "The original pixel duck, spinning in a circle in every Codex state.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp"
+}
